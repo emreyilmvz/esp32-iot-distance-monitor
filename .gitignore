@@ -1,0 +1,13 @@
+# Local credentials and configuration
+firmware/ESP32_Alert_IOT/secrets.h
+
+# Arduino / PlatformIO build output
+.pio/
+build/
+.cache/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
